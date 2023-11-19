@@ -9,8 +9,8 @@ while guess != num:
   if guess == num:
     print('Congrats! You guessed correct!')
   elif guess < num:
-  print('Your number was too small...')
-else:
-  print('Your number was too big...')
+    print('Your number was too small...')
+  else:
+    print('Your number was too big...')
 print('You guessed in total%d' %i + 'times', end = '')
 print("Quick! Go compare your score with your friends'!")
