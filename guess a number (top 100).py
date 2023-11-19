@@ -6,7 +6,7 @@ i = 0
 while guess != num:
   i += 1
   guess = int(input('Please input a number between 1-100: '))
-  if guess = num:
+  if guess == num:
     print('Congrats! You guessed correct!')
   elif guess < num:
   print('Your number was too small...')
