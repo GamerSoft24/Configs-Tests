@@ -1,4 +1,4 @@
-import random
+import random, time
 print('Guess a number from 1-100!')
 num = random.randint(1,100)
 guess = ''
@@ -14,3 +14,4 @@ while guess != num:
     print('Your number was too big...')
 print('You guessed in total%d' %i + 'times', end = '')
 print("Quick! Go compare your score with your friends'!")
+time.sleep(3)
