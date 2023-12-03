@@ -2,7 +2,7 @@ import turtle
 q = turtle.Pen()
 turtle.bgcolor("black")
 sides = 7
-colors = ["red","orange","yelloe","green","cyan","blue","purple"]
+colors = ["red","orange","yellow","green","cyan","blue","purple"]
 for x in range(360):
   q.pencolor(colors[x%sides])
   q.forward(x*3/sides+x)
