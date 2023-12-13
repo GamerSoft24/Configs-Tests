@@ -5,3 +5,4 @@
 - 💞️ I’m collaborating with Okmeque1 (@Okmeque1) and GS-ST (@GS-ST) as it is my and Okmeque1's shared account.
 - 💬 Ask me if you want to change my repositories or just pull request it.
 - 📫 Reach me by email: haoyun.benjamin.chi@gmail.com.
+- 🧾 My alt account is GamerAlt24 (@GamerAlt24) and it is used if this account is unreachable.
