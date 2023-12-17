@@ -27,7 +27,7 @@ class Word(pygame.sprite.Sprite):
     self.image = self.font.render(str(self.value),True,FONT_COLOR)
     self.speed = randomspeed()
     self.rect = self.image.get_rect()
-    self.rect.topleft = bornposition
+    self.rect.topleft = bornpostion
   def update(self):
     self.rect = self.rect.move(0,self.speed)
     if self.rect.top > SCREEN_HEIGHT:
